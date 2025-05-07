@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer", "Observer\Observ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Singleton.csproj", "{A7CCD183-CF81-4FB5-8CC6-C5494E873170}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Strategy\Strategy.csproj", "{A3EBB216-23CC-46B1-ADAB-FFC895861E9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory", "Factory\Factory.csproj", "{F22294DA-9BC3-4E53-A304-2859987973A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{A7CCD183-CF81-4FB5-8CC6-C5494E873170}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7CCD183-CF81-4FB5-8CC6-C5494E873170}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7CCD183-CF81-4FB5-8CC6-C5494E873170}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3EBB216-23CC-46B1-ADAB-FFC895861E9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3EBB216-23CC-46B1-ADAB-FFC895861E9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3EBB216-23CC-46B1-ADAB-FFC895861E9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3EBB216-23CC-46B1-ADAB-FFC895861E9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F22294DA-9BC3-4E53-A304-2859987973A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F22294DA-9BC3-4E53-A304-2859987973A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F22294DA-9BC3-4E53-A304-2859987973A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F22294DA-9BC3-4E53-A304-2859987973A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
